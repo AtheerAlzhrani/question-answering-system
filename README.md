@@ -3,7 +3,7 @@
 
 This project implements a question-answering system using Retrieval-Augmented Generation (RAG) techniques applied to the **Principles of Finance** PDF. The system allows users to ask questions and retrieves relevant information from the document, generating answers based on its content.
 
-![image](https://github.com/user-attachments/assets/5e57ad7f-a56f-4053-a1f0-f16a4401d17b)
+
 
 ## Features
 
@@ -19,5 +19,7 @@ This project implements a question-answering system using Retrieval-Augmented Ge
 - `scikit-learn`
 - `transformers`
 - `torch` (PyTorch)
+## Output Example
+- ![image](https://github.com/user-attachments/assets/5e57ad7f-a56f-4053-a1f0-f16a4401d17b)
 
 
