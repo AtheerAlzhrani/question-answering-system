@@ -11,8 +11,6 @@ This project implements a question-answering system using the **Principles of Fi
 
 ## Requirements
 
-To run this project, you need the following Python packages:
-
 - `pdfplumber`
 - `sentence-transformers`
 - `scikit-learn`
