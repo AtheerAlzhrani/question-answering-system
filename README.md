@@ -3,7 +3,7 @@
 
 This project implements a question-answering system using Retrieval-Augmented Generation (RAG) techniques applied to the **Principles of Finance** book. The system allows users to ask questions and retrieves relevant information from the document, generating answers based on its content.
 
-[F791EE42-4635-49B1-B814-5754408741C0](https://github.com/user-attachments/assets/c93819fd-a795-4c7c-a83c-087b30a381e2)
+![F791EE42-4635-49B1-B814-5754408741C0](https://github.com/user-attachments/assets/c93819fd-a795-4c7c-a83c-087b30a381e2)
 
 
 
