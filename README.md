@@ -18,7 +18,7 @@ This project implements a question-answering system using Retrieval-Augmented Ge
 - `sentence-transformers`
 - `scikit-learn`
 - `transformers`
-- `torch` (PyTorch)
+
 ## Output Example
  ![image](https://github.com/user-attachments/assets/5e57ad7f-a56f-4053-a1f0-f16a4401d17b)
 
