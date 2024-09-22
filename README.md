@@ -1,7 +1,9 @@
 # Finance Question Answering System
 
 
-This project implements a question-answering system using Retrieval-Augmented Generation (RAG) techniques applied to the **Principles of Finance** PDF. The system allows users to ask questions and retrieves relevant information from the document, generating answers based on its content.
+This project implements a question-answering system using Retrieval-Augmented Generation (RAG) techniques applied to the **Principles of Finance** book. The system allows users to ask questions and retrieves relevant information from the document, generating answers based on its content.
+
+![Uploading 2B70D533-0637-4B22-9068-52977B0810DE.png…]()
 
 
 
